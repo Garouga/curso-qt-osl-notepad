@@ -3,3 +3,5 @@ moc_*
 *.pro.user*
 *.exe
 callgrind.out.*
+build-curso-qt-osl-notepad-Desktop_Qt_5_4_0_clang_64bit-Debug
+.DS_Store
